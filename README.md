@@ -42,5 +42,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 ## 📞 Contact
-For any questions or support, reach out to [your email] or create an issue in the repository.
+For any questions or support, reach out to jameelhamzayev@gmail.com or create an issue in the repository.
 
